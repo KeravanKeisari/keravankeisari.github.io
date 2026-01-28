@@ -1,24 +1,24 @@
 <!doctype html>
-  <html>
-    <head>
-      <title>TestiSivu</title>
-    </head>
-  
-    <body>
-    <h1>Tämä on toisiin testauksiin tarkoitettu sivu</h1>
+<html>
+<head>
+    <title>TestiSivu</title>
+  </head>
 
-      <header>
-        <nav>
-        <a href="#index.html">Pääsivu</a>
-        </nav>
-      </header>
+  <body>
+  <h1>Tämä on toisiin testauksiin tarkoitettu sivu</h1>
 
-    <p>Artem on laiska</p>
+    <header>
+      <nav>
+      <a href="#index.html">Pääsivu</a>
+      </nav>
+    </header>
+
+  <p>Artem on laiska</p>
 
 
-      <footer>
-      <h3>Ota yhteyttä</h3>
-      <p>Älä ota yhteyttä</p>
+    <footer>
+    <h3>Ota yhteyttä</h3>
+    <p>Älä ota yhteyttä</p>
 
-    </body>
-  </html>
+</body>
+</html>
