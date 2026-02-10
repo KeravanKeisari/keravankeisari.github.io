@@ -16,5 +16,5 @@ function kirjaudu(){
 }
 
 function kirjauduUlos(){  
-    localStorage.removeItem("nimi", "kirjautunut")
+    localStorage.clear("nimi", "kirjautunut")
 }
